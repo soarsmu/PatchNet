@@ -19,6 +19,7 @@ Please install the neccessary libraries before running our tool:
 Please following the link below to download the data and pretrained models of our paper. 
 
 - https://drive.google.com/drive/folders/1vO4eF4tma94tsBljLMvVXdG2K4sKOC3s?usp=sharing
+- https://zenodo.org/record/3965234#.XyEBbXUzY5k
 
 After downloading, simply copy the data and model folders to PatchNet folder. 
 
